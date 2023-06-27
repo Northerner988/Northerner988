@@ -1,4 +1,10 @@
-### Hi there 👋
+## 👋 Hi! I'm Alaa.
+
+## 👩🏽‍🎓 Northcoders graduate.
+
+## 🌱 I’m currently working on my personal projects.
+
+## 🧠 Tech stack: JavaScript, React, Node.js, Express, PostgreSQL, HTML, Tailwind CSS.
 
 <!--
 **Northerner988/Northerner988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
