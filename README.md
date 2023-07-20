@@ -1,12 +1,12 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Alaa.;I'm+a+software+developer.;Let's+work+together+%E2%9D%A4&color=fff&size=39&width=600&height=80)
 
-👩🏽‍🎓 Northcoders graduate.
+<span style="font-size: 16px;">👩🏽‍🎓 Northcoders graduate.</span>
 
-🖥️ I’m currently working on my personal projects.
+<span style="font-size: 16px;">🖥️ I’m currently working on my personal projects.</span>
 
-🌱 I’m currently learning PHP.
+<span style="font-size: 16px;">🌱 I’m currently learning PHP.</span>
 
-👯 Get in touch and let's make some awesome stuff!
+<span style="font-size: 16px;">👯 Get in touch and let's make some awesome stuff!</span>
 
 <br>
 
@@ -31,7 +31,7 @@
 
 ## 📈 Stats
 
-<img src='https://github-readme-stats-3zix.vercel.app/api?username=Northerner988&show_icons=true&theme=radical' width="100%">
+<img src='https://github-readme-stats-3zix.vercel.app/api?username=Northerner988&show_icons=true&theme=radical' width="80%">
 <!-- <img src='https://github-readme-stats-3zix.vercel.app/api/top-langs/?username=Northerner988&layout=compact&theme=radical' width="28%"> -->
 
 <!--
