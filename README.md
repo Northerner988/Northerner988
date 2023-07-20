@@ -1,12 +1,12 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Alaa.;I'm+a+software+developer.;Let's+work+together+%E2%9D%A4&color=fff&size=39&width=600&height=80)
 
-<span style="font-size: 16px;">👩🏽‍🎓 Northcoders graduate.</span>
+<span style="font-size: 1.5rem;">👩🏽‍🎓 Northcoders graduate.</span>
 
-<span style="font-size: 16px;">🖥️ I’m currently working on my personal projects.</span>
+<span style="font-size: 1.5rem;">🖥️ I’m currently working on my personal projects.</span>
 
-<span style="font-size: 16px;">🌱 I’m currently learning PHP.</span>
+<span style="font-size: 1.5rem;">🌱 I’m currently learning PHP.</span>
 
-<span style="font-size: 16px;">👯 Get in touch and let's make some awesome stuff!</span>
+<span style="font-size: 1.5rem;">👯 Get in touch and let's make some awesome stuff!</span>
 
 <br>
 
