@@ -1,22 +1,38 @@
-### 👋 Hi! I'm Alaa.
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Alaa.;I'm+a+software+developer.;Let's+work+together+%E2%9D%A4&color=fff&size=39&width=600&height=80)
 
-### 👩🏽‍🎓 Northcoders graduate.
+👩🏽‍🎓 Northcoders graduate.
 
-### 🌱 I’m currently working on my personal projects.
+🖥️ I’m currently working on my personal projects.
 
-### 🧠 Tech stack
+🌱 I’m currently learning PHP.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-001d3d?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-0b090a?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-d8572a?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-5fa8d3?style=for-the-badge&logo=css3&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-b56576?style=for-the-badge&logo=jest&logoColor=white)
+👯 Get in touch and let's make awesome stuff!
+
+<br>
+
+## 🧰 Languages and Tools
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-001d3d?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-0b090a?style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/HTML-d8572a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-5fa8d3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Sass-CC6689?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/Jest-b56576?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" >
+  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" alt="git" />
+
+  <br>
+
+## 📈 Stats
+
+<img src='https://github-readme-stats-3zix.vercel.app/api?username=Northerner988&show_icons=true&theme=radical'>
+<!-- <img src='https://github-readme-stats-3zix.vercel.app/api/top-langs/?username=Northerner988&layout=compact&theme=radical' width="28%"> -->
 
 <!--
 **Northerner988/Northerner988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +47,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
