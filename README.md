@@ -1,7 +1,5 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Alaa.;I'm+a+software+developer.;Let's+work+together+%E2%9D%A4&color=fff&size=39&width=600&height=80)
 
-<br>
-
 👩🏽‍🎓 Northcoders graduate.
 
 🖥️ I’m currently working on my personal projects.
@@ -19,7 +17,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
 
-<br>
+<br><br>
 
 ## 🧰 Languages and Tools
 
@@ -38,7 +36,7 @@
 ![netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 
-  <br>
+<br><br>
 
 ## 📈 Stats
 
