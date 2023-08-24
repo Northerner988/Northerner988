@@ -36,7 +36,7 @@
 ![netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 
-<br><br>
+<br>
 
 ## 📈 Stats
 
