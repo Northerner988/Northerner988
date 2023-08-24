@@ -1,5 +1,7 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Alaa.;I'm+a+software+developer.;Let's+work+together+%E2%9D%A4&color=fff&size=39&width=600&height=80)
 
+<br>
+
 👩🏽‍🎓 Northcoders graduate.
 
 🖥️ I’m currently working on my personal projects.
@@ -7,6 +9,15 @@
 🌱 I’m currently learning PHP.
 
 👯 Get in touch and let's make some awesome stuff!
+
+<a href="https://www.linkedin.com/in/alaa-mohammed-b09772154">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:alaamo53@outlook.com">
+    <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge" alt="Email Badge"/>
+</a><a href="https://discordapp.com/users/764581730890940457">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
 
 <br>
 
