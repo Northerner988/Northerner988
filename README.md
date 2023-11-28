@@ -4,8 +4,6 @@
 
 🖥️ I’m currently working on my personal projects.
 
-🌱 I’m currently learning PHP.
-
 👯 Get in touch and let's make some awesome stuff!
 
 <a href="https://www.linkedin.com/in/alaa-mohammed-b09772154">
@@ -31,7 +29,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-0b090a?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-d8572a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-5fa8d3?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6689?style=for-the-badge&logo=sass&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-b56576?style=for-the-badge&logo=jest&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
