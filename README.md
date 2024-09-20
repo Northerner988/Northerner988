@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Alaa.;I'm+a+software+developer.;Let's+work+together+%E2%9D%A4&color=fff&size=39&width=600&height=80)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Alaa.;I'm+an+aspring+software+developer.;Let's+work+together+%E2%9D%A4&color=fff&size=39&width=600&height=80)
 
 👩🏽‍🎓 Northcoders graduate.
 
